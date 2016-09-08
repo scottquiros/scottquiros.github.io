@@ -6,8 +6,7 @@ tags: [indoor, cycling, spinning, exercise, bike, workouts]
 categories: [Fitness]
 permalink: Why Indoor Cycling is a better workout
 ---
-
-<img src="http://blog.hoistfitness.com/wp-content/uploads/2015/05/Spin-Class-Tips.jpg" alt="Indoor Cycling workout">
+<img src="http://roysfitness.co.uk/wordpress/wp-content/uploads/2014/05/spinning.jpg" alt="Indoor Cycling workout">
 
 I am a Spinning Instructor, while I am on my way travelling through public transport to my Spinning Class, I frequently involved in a conversation with fellow passengers for pass time. So we discussed everything until we reach the topic of "what do you do for living?", I told them that I am a Spinning Teacher, they are like: "oh! That is hard, and I don't like it.  
 
@@ -58,23 +57,3 @@ The warm up exercise and cooling down are great ways to relax, before and after 
 <b>Conclusion</b>
 
 Choosing the best spin bike is one of the many factors to have an effective workout. If you have seen most of the spin bike reviews, spinner always follow certain routine during workout. And because it has been proven to burn calories efficiently, it has become famous nowadays. You can either enrol for a spin class in the gym, or buy your own spin bike at home to make it more convenient for you.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
