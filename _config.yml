@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://scottquiros.github.io
+title: Indoor Cycling Blog 
+tagline: A log of everyday life
+description: Helping readers choosing great indoor exercise bikes
+paginate: 1
